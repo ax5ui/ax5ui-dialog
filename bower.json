@@ -1,0 +1,24 @@
+{
+	"name": "bootstrap-ax5dialog",
+	"version": "0.1.0",
+	"authors": [
+		"ThomasJ <tom@axisj.com>"
+	],
+	"description": "",
+	"main": "dist/ax5dialog.js",
+	"keywords": [
+		"bootstrap",
+		"jquery",
+		"ax5ui",
+		"plugin",
+		"bootstrap jQuery plugins",
+		"dialog",
+		"bootstrap-ax5dialog"
+	],
+	"dependencies": {
+		"jquery": "^1.11.0",
+		"ax5core": "^0.2.0"
+	},
+	"license": "MIT",
+	"homepage": "ax5.io"
+}
